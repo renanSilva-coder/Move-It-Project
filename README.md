@@ -1,6 +1,7 @@
 # Move-It-Project
 
-Descrição do MOVE IT
+Descrição do MOVE IT - Esse projeto 1.0 está na branch projeto
+
 Esse projeto tem como objetivo ser um aplicativo que auxilia no relaxamento e realização de exercícios que melhoram a saúde física e mental das pessoas que passam grande parte do seu dia na frente de telas de computador e semelhantes. Isso de forma interativa, divertida e saudável. 
 
 Feito em React, Next.js e Node.js. Para instalar em sua máquina precisa-se instalar dependências como o yarn eventualmente (ou pode se usar o npm), o next.js, entre outras para o funcionamento total. em breve estarei compartilhando uma documentação completa, 
