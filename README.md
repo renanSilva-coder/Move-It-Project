@@ -5,7 +5,7 @@ Esse projeto tem como objetivo ser um aplicativo que auxilia no relaxamento e re
 
 Feito em React, Next.js e Node.js. Para instalar em sua máquina precisa-se instalar dependências como o yarn eventualmente (ou pode se usar o npm), o next.js, entre outras para o funcionamento total. em breve estarei compartilhando uma documentação completa, 
 
-ATENÇÃO: não esqueça de instalar o node_modules na pasta do projeto com o comando npm install pelo terminal.
+ATENÇÃO: não esqueça de instalar o node_modules na pasta do projeto com o comando npm install pelo terminal, pois o github não aceita a pasta node_module por ser pesada.
 
 *A pasta JetBrainsMono-2.225 é somente para fontes estilizadas caso queria.
 
