@@ -1,6 +1,6 @@
 # Move-It-Project
 
-Descrição do MOVE IT - Esse projeto 1.0 está na branch master
+Descrição do MOVE IT - Esse projeto 1.0 está na projeto (como zip) e branch Master eu adicionei o código do mesmo para mais fácil acesso
 
 Esse projeto tem como objetivo ser um aplicativo que auxilia no relaxamento e realização de exercícios que melhoram a saúde física e mental das pessoas que passam grande parte do seu dia na frente de telas de computador e semelhantes. Isso de forma interativa, divertida e saudável. 
 
@@ -11,6 +11,8 @@ Feito em React, Next.js e Node.js. Para instalar em sua máquina precisa-se inst
 - A pasta JetBrainsMono-2.225 é somente para fontes estilizadas caso queria.
 
 - <strong>PROJETO OFICIAL:</strong> é o moveit-next 1.0, onde ainda será evoluído, mas a aplicação está funcionando, atualmente em produção em https://moveit-relax-orcin.vercel.app/ 
+
+*moveit-react-incompleted é o projecto bem no princípio, com apenas react, pois quando eu criei novamente o projeto com o next, copiei e colei os códigos de um projeto para o outro ( este provávelmente você não irá usar)
 
 <strong>FUNCIONAMENTO</strong>: temos um cronômetro de 25min, ao final será lançado um desafio ao lado para ser realizado, ao completar o desafio, clique em completei e você receberá pontos de xp(experiência), e ao completar a quantidade de xp necessária para o level em questão, você "UPA" DE LEVEL, e assim vai prosseguindo. 
 Você pode encerrar o ciclo, ele voltará do início. 
