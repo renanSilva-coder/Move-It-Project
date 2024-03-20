@@ -8,10 +8,10 @@ export function ResetPointsButton() {
     const { resetPoints } = useContext(ChallengesContext);
 
     return (
-        // <div className={styles.container}>
-        //     <button type='button' className={styles.first} onClick={resetPoints} >
-        //         reset points
-        //     </button>
-        // </div >
+        <div className={styles.container}>
+        {/*    <button type='button' className={styles.first} onClick={resetPoints} >
+                 reset points
+             </button> */}
+        </div >
     );
 }
